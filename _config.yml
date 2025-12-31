@@ -1,0 +1,6 @@
+# Site settings
+title: HappyTurtle
+subtitle: "A Happy Turtle privacy"
+url: "https://sofien4387.github.io/happyTurtle/" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/"
